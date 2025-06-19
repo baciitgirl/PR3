@@ -13,9 +13,7 @@ public class Main {
         //System.out.println("Product 1: " + p1);
         pm.add(p1);
         pm.add(p2);
-        pm.saveToFile("C:\\Users\\b50394\\IdeaProjects\\PR3_local\\" +
-                "test\\Produkte.txt");
-        pm.readFromFile("C:\\Users\\b50394\\IdeaProjects\\PR3_local\\" +
-                "test\\Produkte.txt");
+        pm.saveToFile("C:\\Testp3\\Products\\products.txt");
+        pm.readFromFile("C:\\Testp3\\Products\\products.txt");
     }
 }

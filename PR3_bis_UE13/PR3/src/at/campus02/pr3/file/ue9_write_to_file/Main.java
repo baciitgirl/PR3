@@ -18,5 +18,6 @@ public class Main {
         }
         pw.flush();
         pw.close();
+        System.out.println("UE9 : write to file finished");
     }
 }
