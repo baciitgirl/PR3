@@ -1,0 +1,2 @@
+Titel: My Book | Autor: Ich | ISBN: 124587 | Preis: 25.0 €
+Titel: Mia | Autor: Anna | ISBN: 9308392428390 | Preis: 26.0 €
