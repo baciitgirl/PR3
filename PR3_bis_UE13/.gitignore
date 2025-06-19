@@ -1,0 +1,20 @@
+# IntelliJ IDEA-Projektdateien
+.idea/
+*.iml
+
+# Build-Ordner
+out/
+build/
+
+# Temporäre Dateien
+*.log
+*.class
+*.tmp
+
+# Persönliche Dateien
+*.pdf
+*.zip
+
+# OS-spezifisch
+.DS_Store
+Thumbs.db
